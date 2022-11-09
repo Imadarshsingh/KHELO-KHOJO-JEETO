@@ -66,7 +66,7 @@ def start():
             else:
                 print("Sorry!! Currently only these TWO options are available.")
                 restart()
-print("Welcome TO KHELO KHOJO AUR JEETO")
+print("Welcome TO KHELO-KHOJO-JEETO")
 instruct="""\nInstructions:
 1. All you have to enter is yes/no. No other entries will be valid.
 2. Only way to win game is finding that stone."""
